@@ -12,14 +12,14 @@
     <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
   <div class="card-header">Products</div>
   <div class="card-body">
-    <h5 class="card-title">Primary card title</h5>
+    <h5 class="card-title">4</h5>
   
   </div>
 </div>
 <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
   <div class="card-header">Categories</div>
   <div class="card-body">
-    <h5 class="card-title">@count()</h5>
+    <h5 class="card-title">5</h5>
   
   </div>
 </div>
